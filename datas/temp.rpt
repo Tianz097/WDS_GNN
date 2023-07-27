@@ -1,4 +1,4 @@
-  Page 1                                    Wed Jul 19 14:01:54 2023
+  Page 1                                    Thu Jul 27 18:15:54 2023
 
   ******************************************************************
   *                           E P A N E T                          *
@@ -7,74 +7,73 @@
   *                         Version 2.00.12                        *
   ******************************************************************
   
-  Analysis begun Wed Jul 19 14:01:54 2023
+  Analysis begun Thu Jul 27 18:15:54 2023
 
    
   Hydraulic Status:
   -----------------------------------------------------------------------
-     0:00:00: Balanced after 7 trials
-     0:00:00: Reservoir node_2746 is emptying
-     0:00:00: Reservoir node_2747 is emptying
+     0:00:00: Balanced after 6 trials
+     0:00:00: Reservoir 1 is emptying
    
-     0:15:00: Balanced after 3 trials
+     0:15:00: Balanced after 2 trials
    
      0:30:00: Balanced after 2 trials
    
-     0:45:00: Balanced after 3 trials
+     0:45:00: Balanced after 2 trials
    
-     1:00:00: Balanced after 3 trials
+     1:00:00: Balanced after 2 trials
    
      1:15:00: Balanced after 2 trials
    
      1:30:00: Balanced after 2 trials
    
-     1:45:00: Balanced after 3 trials
+     1:45:00: Balanced after 2 trials
    
      2:00:00: Balanced after 2 trials
    
-     2:15:00: Balanced after 3 trials
+     2:15:00: Balanced after 2 trials
    
      2:30:00: Balanced after 2 trials
    
-     2:45:00: Balanced after 3 trials
+     2:45:00: Balanced after 2 trials
    
-     3:00:00: Balanced after 3 trials
+     3:00:00: Balanced after 2 trials
    
      3:15:00: Balanced after 2 trials
    
      3:30:00: Balanced after 2 trials
    
-     3:45:00: Balanced after 3 trials
+     3:45:00: Balanced after 2 trials
    
      4:00:00: Balanced after 2 trials
    
-     4:15:00: Balanced after 3 trials
+     4:15:00: Balanced after 2 trials
    
-     4:30:00: Balanced after 3 trials
+     4:30:00: Balanced after 1 trials
    
      4:45:00: Balanced after 2 trials
    
-     5:00:00: Balanced after 3 trials
+     5:00:00: Balanced after 2 trials
    
      5:15:00: Balanced after 2 trials
    
-     5:30:00: Balanced after 3 trials
+     5:30:00: Balanced after 2 trials
    
      5:45:00: Balanced after 2 trials
    
      6:00:00: Balanced after 2 trials
    
-     6:15:00: Balanced after 3 trials
+     6:15:00: Balanced after 2 trials
    
-     6:30:00: Balanced after 3 trials
+     6:30:00: Balanced after 2 trials
    
      6:45:00: Balanced after 2 trials
    
-     7:00:00: Balanced after 3 trials
+     7:00:00: Balanced after 2 trials
    
-     7:15:00: Balanced after 3 trials
+     7:15:00: Balanced after 2 trials
    
-     7:30:00: Balanced after 3 trials
+     7:30:00: Balanced after 2 trials
    
      7:45:00: Balanced after 2 trials
    
@@ -100,9 +99,9 @@
    
     10:30:00: Balanced after 2 trials
    
-    10:45:00: Balanced after 2 trials
+    10:45:00: Balanced after 1 trials
    
-    11:00:00: Balanced after 2 trials
+    11:00:00: Balanced after 1 trials
    
     11:15:00: Balanced after 2 trials
    
@@ -116,7 +115,7 @@
    
     12:30:00: Balanced after 2 trials
    
-    12:45:00: Balanced after 2 trials
+    12:45:00: Balanced after 1 trials
    
     13:00:00: Balanced after 2 trials
    
@@ -128,9 +127,9 @@
    
     14:00:00: Balanced after 2 trials
    
-    14:15:00: Balanced after 2 trials
+    14:15:00: Balanced after 1 trials
    
-    14:30:00: Balanced after 2 trials
+    14:30:00: Balanced after 1 trials
    
     14:45:00: Balanced after 2 trials
    
@@ -140,15 +139,15 @@
    
     15:30:00: Balanced after 2 trials
    
-    15:45:00: Balanced after 2 trials
+    15:45:00: Balanced after 1 trials
    
-    16:00:00: Balanced after 2 trials
+    16:00:00: Balanced after 1 trials
    
     16:15:00: Balanced after 2 trials
    
     16:30:00: Balanced after 1 trials
    
-    16:45:00: Balanced after 2 trials
+    16:45:00: Balanced after 1 trials
    
     17:00:00: Balanced after 2 trials
    
@@ -164,7 +163,7 @@
    
     18:30:00: Balanced after 2 trials
    
-    18:45:00: Balanced after 2 trials
+    18:45:00: Balanced after 1 trials
    
     19:00:00: Balanced after 2 trials
    
@@ -192,7 +191,7 @@
    
     22:00:00: Balanced after 2 trials
    
-    22:15:00: Balanced after 2 trials
+    22:15:00: Balanced after 1 trials
    
     22:30:00: Balanced after 2 trials
    
@@ -206,6 +205,6 @@
    
     23:45:00: Balanced after 2 trials
    
-    24:00:00: Balanced after 3 trials
+    24:00:00: Balanced after 2 trials
    
-  Analysis ended Wed Jul 19 14:01:54 2023
+  Analysis ended Thu Jul 27 18:15:54 2023
